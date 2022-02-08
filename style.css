@@ -4,7 +4,11 @@ color: red;
 
   .about{
 font-family: Tahoma;
-  color: yellow;
+  color: color: rgb(0, 45, 128);
+}
+
+p{
+font-size: 20px;
 }
 
 h2 {
@@ -12,6 +16,4 @@ font-family: Arial;
   color: green;
 }
 
-p{
-font-size: 22px; color:darkorange;
-}
+
