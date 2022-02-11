@@ -25,6 +25,11 @@ a {
  color: yellow;
 }
 
+td {
+  border: 2px solid #8c6b48;
+  width: 300px;
+}
+
 .container {
   max-width: 940px;
   margin: 0 auto;
